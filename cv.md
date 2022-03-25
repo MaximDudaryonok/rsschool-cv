@@ -1,8 +1,5 @@
 # ***[Rsschool](https://MaximDudaryonok.github.io/rsschool-cv/)***
-## **Maxim Dudaryonok****
-___
-![Myself](/img/mountan.png "Пейзаж с горами")
-___
+## **Maxim Dudaryonok**
  ***
 Contact information:
 Tel: +375257639947
