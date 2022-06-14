@@ -1,1 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>CV Maxim Dudaryonok</title>
+</head>
+
+<body>
+    <div class="background">
+        <header class="header">
+            <div class="wrapper header__wrapper">
+                <h1 class="header_title">Maxim Dudaryonok</h1>
+                <p>Student RS school</p>
+            </div>
+            <nav class="header_navigation">
+                <ul class="navigation">
+                    <il><a href="#contacts">Contacts</a></il>
+                    <il><a href="#skills">Skills</a></il>
+                    <il><a href="#languages">Languages</a></il>
+                    <il><a href="#code">Code</a></il>
+                    <il><a href="#projects">Projects</a></il>
+                    <il><a href="#about">About me</a></il>
+                </ul>
+            </nav>
+        </header>
+    </div>
+    <section class="contacts" id="contacts">
+        <div class="wrapper contacts_wrapper">
+            <h2 class="contacts_title">Contacts</h2>
+            <p> email: maxim.dudaryonok@yandex.ru<br>
+                tg: @maaxim2022<br>
+                discord: MaximDudaryonok#1367
+            </p>
+        </div>
+    </section>
+    <section class="skills" id="skills">
+        <div class="wrapper skills_wrapper">
+            <h2 class="skills_title">Skills</h2>
+            <p>HTML CSS</p>
+        </div>
+    </section>
+    <section class="languages" id="languages">
+        <div class="wrapper wrapper_languages">
+            <h2 class="languages_title">Languages</h2>
+            <p>English A2</p>
+        </div>
+    </section>
+    <section class="code" id="code">
+        <div class="wrapper code_wrapper">
+            <h2 class="code_title">Code</h2>
+            <p>const addHeaderHamburgerClickHandler = () => {<br>
+                document.querySelector(".header__wrapper").addEventListener("click", (e) => {<br>
+                if (e.target.closest(".hamburger")) {<br>
+                toggleMobileMenuDisplay();<br>
+                }<br>
+                });
+            </p>
+        </div>
+    </section>
+    <section class="projects" id="projects">
+        <div class="wrapper projects_wrapper">
+            <h2 class="projects_title">Projects</h2>
+            <a class="cozyhouse_link"
+                href="https://rolling-scopes-school.github.io/maximdudaryonok-JSFE2022Q1/shelter/pages/main/"
+                alt="project CozyHouse">Cozy House</a>
+        </div>
+    </section>
+    <section class="about" id="about">
+        <div class="wrapper about_wrapper">
+            <h2>About me</h2>
+            <p>I'm 30 years old. Living in Minsk.</p>
+        </div>
+    </section>
+    <footer class="credits">
+        <div class="wrapper credits_wrapper">
+            <a href="https://github.com/MaximDudaryonok?tab=repositories" alt="GithubLink">
+                <img class="github_img" src="../img/github-icon.svg" alt="Github">
+            </a>
+            <a href="https://rs.school/" alt="rschool">
+                <img class="rsschool_img" src="../img/logo-rs.svg" alt="RSShool">
+            </a>
+        </div>
+    </footer>
+</body>
+
+</html>
