@@ -1,5 +1,4 @@
 # rs-school
-========================
 1. **Maxim Dudaryonok**
 2. *https://t.me/maaxim2023*
 3. ***I am 31 years old. I am living in Earth***
@@ -8,7 +7,6 @@
 + _CSS_
 + _JavaScript_
 5. 
-========================
 ```
 function compose(...func) {
     return function(x) {
