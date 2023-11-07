@@ -3,10 +3,10 @@
 1. **Maxim Dudaryonok**
 2. *https://t.me/maaxim2023*
 3. ***I am 31 years old. I am living in Earth***
-4. _* Some:
-+ HTML
-+ CSS
-+ JavaScript_
+4. * **Some:**
++ _HTML_
++ _CSS_
++ _JavaScript_
 5. 
 ========================
 ```
